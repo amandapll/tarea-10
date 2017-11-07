@@ -1,6 +1,7 @@
 body {
 	background-image: url(../images/festival.png);
 	background-size: 100%;
+	margin: auto;
 
 }
 
@@ -91,7 +92,7 @@ button:hover {
 	position: relative;
 	margin-right: 400px;
 	margin-left: 400px;
-	margin-top: 1000px;
+	margin-top: 950px;
 	border: 1px solid white;
 	background-color: white;
 
@@ -142,13 +143,14 @@ button:hover {
 h1 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 2em;
+	font-weight: bolder;
 
 }
 
 footer {
 	background-color: black;
 	height: 250px;
-	margin-top: -180px;
+	margin-top: -153px;
 	color: white;
 	font-family: 'Montserrat', sans-serif;
 
