@@ -1,0 +1,183 @@
+body {
+	background-image: url(../images/festival.png);
+	background-size: 100%;
+
+}
+
+
+
+
+.logo {
+	 width: 440px;
+	 padding: 10px;
+	 margin-left: 240px;
+	 margin-top: 50px;
+
+
+
+	}
+
+nav ul li {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	display: inline;
+	border-right: 2px solid white;
+	font-size: 1em;
+	margin-left: 20px;
+	padding: 10px;
+	font-weight: bolder;
+	
+}
+
+nav {
+		margin-left: 1100px;
+		margin-top: -620px;
+
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+
+}
+
+nav ul li a:hover {
+	background-color: white;
+	padding: 10px;
+	color: #d5d4e1;
+}
+
+button {
+	color: white;
+	background: transparent;
+	border-radius: 30px;
+	border: 2px solid white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	margin-left: 380px;
+	margin-top: 20px;
+	padding: 10px;
+
+
+}
+
+button:hover {
+	color:  black;
+	background: white;
+	border-radius: 30px;
+	border: 3px solid white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	margin-left: 380px;
+	margin-top: 20px;
+	padding: 10px;
+	font-weight: bolder;
+
+
+}
+
+.lineupdiv {
+	margin-top: 700px;
+	background-color: #070707;
+	height: 800px;
+}
+
+.form {
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-weight: bolder;
+	padding: 10px;
+	position: relative;
+	margin-right: 400px;
+	margin-left: 400px;
+	margin-top: 1000px;
+	border: 1px solid white;
+	background-color: white;
+
+}
+
+.box {
+	width: 250px;
+	height: 55px;
+    box-shadow: 5px 5px 5px #c3c7c9;
+
+}
+
+#box2 {
+	width: 250px;
+	height: 85px;
+}
+
+.formdiv {
+	padding-bottom: 250px;
+
+}
+
+::-webkit-input-placeholder { /* Chrome */
+  color: black;
+  font-size: 1.6em;
+	font-family: 'Raleway', sans-serif;
+}
+
+.submit {
+	width: 250px;
+	height: 55px;
+	border: 1px solid black;
+	font-family: 'Raleway', sans-serif;
+	background-color: black;
+	color: white;
+	font-size: 1.5em;
+
+}
+
+.submit:hover {
+	background-color: white;
+	border: 1px solid black;
+	font-weight: bolder;
+	color: black;
+}
+
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2em;
+
+}
+
+footer {
+	background-color: black;
+	height: 250px;
+	margin-top: -180px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.datos {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+}
+
+.datos ul li {
+	display: inline;
+	margin-left: 10px;
+	border-right: 1px solid white;
+	padding-right: 10px;
+
+}
+
+
+.logo2 {
+	width: 100px;
+}
+
+
+
+
+
+
+
